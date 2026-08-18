@@ -10,35 +10,35 @@ Windows Server、Microsoft 365、Azureなどの構築・運用を経験してい
 - Windows Server
 - Linux
 - [AWS](./AWS/)
-  　CLIログイン
-  　IAM
-  　　IAM ユーザー
-  　　IAM グループ
-  　　IAM ポリシー
-  　　IAM ロール
-  　　AWS Organizations
-  　VPC
-  　　VPC関連確認
-  　　VPC関連作成
-  　　VPC関連削除
-  　　VPC関連備考
-  　EC2
-  　　EC2関連確認
-  　　EC2関連作成
-  　　EC2関連削除
-  　　EC2関連備考
-  　ストレージ
-  　　S3コマンド操作
-　　　S3バケットアクセス
-  　　CloudTrailログ保存
-  　　EFS
-  　ECS
-  　CI/CD
-  　AWS SDK実行検証
-  　AWS CDK実行検証
-  　AWS Resource Groups
-  　請求とコスト管理
-
+  　CLIログイン<br>
+  　IAM<br>
+  　　IAM ユーザー<br>
+  　　IAM グループ<br>
+  　　IAM ポリシー<br>
+  　　IAM ロール<br>
+  　　AWS Organizations<br>
+  　VPC<br>
+  　　VPC関連確認<br>
+  　　VPC関連作成<br>
+  　　VPC関連削除<br>
+  　　VPC関連備考<br>
+  　EC2<br>
+  　　EC2関連確認<br>
+  　　EC2関連作成<br>
+  　　EC2関連削除<br>
+  　　EC2関連備考<br>
+  　ストレージ<br>
+  　　S3コマンド操作<br>
+　　　S3バケットアクセス<br>
+  　　CloudTrailログ保存<br>
+  　　EFS<br>
+  　ECS<br>
+  　CI/CD<br>
+  　AWS SDK実行検証<br>
+  　AWS CDK実行検証<br>
+  　AWS Resource Groups<br>
+  　請求とコスト管理<br>
+<br>
   
 - Azure
 - Microsoft 365
