@@ -19,3 +19,15 @@
   - EC2関連作成
   - EC2関連削除
   - EC2関連備考
+
+- ストレージ
+  - S3コマンド操作
+  - S3バケットアクセス
+  - CloudTrailログ保存
+  - EFS
+- ECS
+- CI/CD
+- AWS SDK実行検証
+- AWS CDK実行検証
+- AWS Resource Groups
+- 請求とコスト管理
