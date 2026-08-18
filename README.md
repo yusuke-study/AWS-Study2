@@ -1,6 +1,3 @@
-
-Infrastructure Engineer
-
 ## Profile
 
 インフラエンジニアとして、オンプレミス環境を中心に、
