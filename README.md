@@ -1,4 +1,3 @@
-# AWS-Study2
 
 # インフラエンジニア Portfolio
 
