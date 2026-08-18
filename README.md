@@ -13,7 +13,7 @@ Windows Server、Microsoft 365、Azureなどの構築・運用を経験してい
 - Azure
 - Microsoft 365
 - Terraform
-- Webページ作成
+- Webページ作成<br>
 　<a href="https://yusuke-study.github.io/Report-submission01/" target="_blank">キャンバスページ</a><br>
 　<a href="https://yusuke-study.github.io/Report-submission02/" target="_blank">音源再生 画像自動切換えページ</a><br>
 　<a href="https://yusuke-study.github.io/Report-submission03/" target="_blank">現在時刻表示ページ</a> <br>
