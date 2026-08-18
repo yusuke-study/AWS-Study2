@@ -12,9 +12,8 @@ Windows Server、Microsoft 365、Azureなどの構築・運用を経験してい
 ## Skills
 
 - Windows Server
-- Microsoft 365
-- Azure
 - [AWS](./AWS/)
-- VMware
+- Azure
+- Microsoft 365
 - Terraform
 - GitHub Actions
