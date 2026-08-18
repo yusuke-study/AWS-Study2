@@ -14,3 +14,6 @@ Windows Server、Microsoft 365、Azureなどの構築・運用を経験してい
 - Microsoft 365
 - Terraform
 - Webページ作成
+
+
+<a href="https://aws.amazon.com/jp/" target="_blank">AWS公式サイト</a>
