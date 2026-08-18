@@ -14,7 +14,7 @@ Windows Server、Microsoft 365、Azureなどの構築・運用を経験してい
 - Windows Server
 - Microsoft 365
 - Azure
-- AWS
+- AWS　(./AWS/)
 - VMware
 - Terraform
 - GitHub Actions
