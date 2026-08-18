@@ -1,1 +1,22 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+body {
+  font-family: "Yu Gothic", "Meiryo", sans-serif;
+  line-height: 1.8;
+}
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  margin-top: 40px;
+}
