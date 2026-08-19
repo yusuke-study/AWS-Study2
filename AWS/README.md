@@ -2,24 +2,15 @@
 
 - CLIログイン
   - [CLIのコマンドライン操作](./CLI/)
+
 - IAM
-  - IAM ユーザー
-  - IAM グループ
-  - IAM ポリシー
-  - IAM ロール
-  - AWS Organizations
+  - [IAMのコマンドライン操作](./IAM/)
 
 - VPC
-  - VPC関連確認
-  - VPC関連作成
-  - VPC関連削除
-  - VPC関連備考
+  - [VPCのコマンドライン操作](./VPC/)
 
 - EC2
-  - EC2関連確認
-  - EC2関連作成
-  - EC2関連削除
-  - EC2関連備考
+  - [EC2のコマンドライン操作](./EC2/)
 
 - ストレージ
   - S3コマンド操作
@@ -28,6 +19,7 @@
   - EFS
 - ECS
   - [クラスター/タスク作成](./ECS/)
+
 - CI/CD
 - AWS SDK実行検証
 - AWS CDK実行検証
