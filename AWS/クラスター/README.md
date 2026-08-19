@@ -24,6 +24,9 @@ AWS ECS（Amazon Elastic Container Service） は、DockerコンテナなどをA
 ※ECRを使用しない。<br><br>
 ![ECS 03](./ECS_03.png)
 
+成功：
+
+public IPを通じてNginxの画面が表示される。
 
 
 
