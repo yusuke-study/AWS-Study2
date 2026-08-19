@@ -8,7 +8,7 @@ AWS ECS（Amazon Elastic Container Service） は、DockerコンテナなどをA
 
 ![ECS 04](./ECS_04.png)
 <br>
-■起動タイプの選択　(ECSを構成する2つの起動タイプについて)<br><br>
+■起動タイプの選択　(ECSを構成する2つの起動タイプについて)<br>
 
 ![ECS 05](./ECS_05.png)
 <br>
