@@ -47,3 +47,19 @@ public IPを通じてNginxの画面が表示される。
 
 ![ECS 09](./ECS_09.png)
 
+![ECS ](./ECS_10.png)
+
+![ECS ](./ECS_11.png)
+
+![ECS ](./ECS_12.png)
+
+![ECS ](./ECS_13.png)
+
+![ECS ](./ECS_14.png)
+
+![ECS ](./ECS_15.png)
+
+![ECS ](./ECS_16.png)
+
+![ECS ](./ECS_17.png)
+
