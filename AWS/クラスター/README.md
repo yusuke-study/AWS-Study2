@@ -1,4 +1,4 @@
-###- 概要
+### 概要
 <br>
 AWS ECS（Amazon Elastic Container Service） は、DockerコンテナなどをAWS上で実行・管理するためのフルマネージドなコンテナオーケストレーションサービスである。
 
@@ -14,7 +14,7 @@ AWS ECS（Amazon Elastic Container Service） は、DockerコンテナなどをA
 <br>
 <br>
 <br>
-###- 作成イメージ
+### 作成イメージ
 <br>
 ・最小限な構成でECSを使用する。<br>
 ・Nginx用のコンテナをダウンロードして、それをデプロイする。<br>
