@@ -16,7 +16,7 @@ AWS ECS（Amazon Elastic Container Service） は、DockerコンテナなどをA
 <br>
 ### 作成イメージ
 <br>
-・最小限な構成でECSを使用する。
+・最小限な構成でECSを使用する。<br>
 ・Nginx用のコンテナをダウンロードして、それをデプロイする。
 ・VPC内のpublic subnetの中にECSを通じてnginxのコンテナをデプロイする。
 ・起動タイプはfargateを使用する。
