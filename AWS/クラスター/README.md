@@ -29,7 +29,7 @@ AWS ECS（Amazon Elastic Container Service） は、DockerコンテナなどをA
 ・起動タイプはfargateを使用する。<br>
 ・コンテナにpublic IPを付与する。<br>
 ※ECRを使用しない。<br>
-![ECS Fargate](./ECS_03.png)<br><br>
+![ECS 03](./ECS_03.png)<br><br>
 
 
 
