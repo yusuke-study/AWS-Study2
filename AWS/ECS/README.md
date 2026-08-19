@@ -1,4 +1,4 @@
-### 概要
+## 概要
 <br>
 AWS ECS（Amazon Elastic Container Service） は、DockerコンテナなどをAWS上で実行・管理するためのフルマネージドなコンテナオーケストレーションサービスである。
 
@@ -14,7 +14,7 @@ AWS ECS（Amazon Elastic Container Service） は、DockerコンテナなどをA
 <br>
 <br>
 <br>
-### 作成イメージ
+## 作成イメージ
 
 ・最小限な構成でECSを使用する。<br>
 ・Nginx用のコンテナをダウンロードして、それをデプロイする。<br>
@@ -30,7 +30,7 @@ AWS ECS（Amazon Elastic Container Service） は、DockerコンテナなどをA
 public IPを通じてNginxの画面が表示される。
 
 
-### クラスターの作成
+## クラスターの作成
 
 (1)	クラスターを作成する。
 
@@ -63,7 +63,7 @@ public IPを通じてNginxの画面が表示される。
 
 ![ECS ](./ECS_17.png)
 
-### タスク定義の作成
+## タスク定義の作成
 
 
 (1)	タスク定義を作成する。
@@ -129,7 +129,7 @@ AWS ECR Public :  https://gallery.ecr.aws/
 ![ECS ](./ECS_30.png)
 
 
-### 	タスクの実行　
+## 	タスクの実行　
 
 (1) クラスターに、新しいタスクを追加する。
 
