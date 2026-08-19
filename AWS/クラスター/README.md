@@ -6,11 +6,11 @@ AWS ECS（Amazon Elastic Container Service） は、DockerコンテナなどをA
 
 ■ECSを構成する主なコンポーネント<br>
 
-![ECS 04](./ECS_04.png)
+![ECS ](./ECS_04.png)
 <br>
 ■起動タイプの選択　(ECSを構成する2つの起動タイプについて)<br>
 
-![ECS 05](./ECS_05.png)
+![ECS ](./ECS_05.png)
 <br>
 <br>
 <br>
@@ -24,7 +24,7 @@ AWS ECS（Amazon Elastic Container Service） は、DockerコンテナなどをA
 ※ECRを使用しない。<br>
 
 
-![ECS 03](./ECS_03.png)
+![ECS ](./ECS_03.png)
 
 成功：
 public IPを通じてNginxの画面が表示される。
@@ -34,18 +34,18 @@ public IPを通じてNginxの画面が表示される。
 
 (1)	クラスターを作成する。
 
-![ECS 06](./ECS_06.png)
+![ECS ](./ECS_06.png)
 
 (2)	クラスター名とインフラストラクチャを選択する。
 ※その他の設定は特に重要事項がないため省略し、作成する。
 
-![ECS 07](./ECS_07.png)
+![ECS](./ECS_07.png)
 
 (3)	クラスターが作成される。
 
-![ECS 08](./ECS_08.png)
+![ECS ](./ECS_08.png)
 
-![ECS 09](./ECS_09.png)
+![ECS ](./ECS_09.png)
 
 ![ECS ](./ECS_10.png)
 
