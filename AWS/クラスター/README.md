@@ -30,5 +30,20 @@ AWS ECS（Amazon Elastic Container Service） は、DockerコンテナなどをA
 public IPを通じてNginxの画面が表示される。
 
 
+### クラスターの作成　ECS
 
+(1)	クラスターを作成する。
+
+![ECS 06](./ECS_06.png)
+
+(2)	クラスター名とインフラストラクチャを選択する。
+※その他の設定は特に重要事項がないため省略し、作成する。
+
+![ECS 07](./ECS_07.png)
+
+(3)	クラスターが作成される。
+
+![ECS 08](./ECS_08.png)
+
+![ECS 09](./ECS_09.png)
 
