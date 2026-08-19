@@ -26,7 +26,7 @@
   - CloudTrailログ保存
   - EFS
 - ECS
-  - [クラスター/タスク作成](./クラスター/)
+  - [クラスター/タスク作成](./ECS/)
 - CI/CD
 - AWS SDK実行検証
 - AWS CDK実行検証
