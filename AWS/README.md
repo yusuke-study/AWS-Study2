@@ -23,7 +23,7 @@
 - CI/CD
 - AWS SDK実行検証
   - [AWS SDK実行検証](./SDK/)
-  - 
+
 - AWS CDK実行検証
   - [AWS CDK実行検証](./CDK/)
 
