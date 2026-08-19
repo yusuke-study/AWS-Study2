@@ -34,3 +34,7 @@ EC2に関連するシステムの確認を行うコマンドについて記載�
 (5)	EC２の主要な内容のみ出力する。
 
 「aws ec2 describe-instances  --query "Reservations[*].Instances[*].{ID:InstanceId,Type:InstanceType,State:State.Name,PublicIP:PublicIpAddress,PrivateIP:PrivateIpAddress,Name:Tags[?Key=='Name']|[0].Value}" --output table」を実行する。
+
+![EC2](./EC2_05.png)
+
+
