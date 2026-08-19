@@ -7,7 +7,7 @@ EC2に関連するシステムの確認を行うコマンドについて記載�
 
 (1)	AMI IDを検索する。
 
-「aws ec2 describe-images `--owners` amazon `--filters` "Name=name,Values=<キーワード>" `--query` 'Images[*].[ImageId,Name]' `--output` table」を実行する。
+「aws ec2 describe-images `--owners` amazon `--filters` "Name=name,Values= キーワード `--query` 'Images[*].[ImageId,Name]' `--output` table」を実行する。
 
 例：aws ec2 describe-images `--owners` amazon `--filters` "Name=name,Values=RHEL-8*" `--query` 'Images[*].[ImageId,Name]' `--output` table
 
