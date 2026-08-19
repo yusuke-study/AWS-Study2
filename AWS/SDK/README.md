@@ -105,28 +105,12 @@ S3にファイルを新規作成する。
 
 (1)	ターミナルで、下記内容の「delete_EC2_vpc.py」を作成し、コードを実行する。
 
+[`delete_EC2_vpc.py ダウンロード`](./delete_EC2_vpc.py)
+
+![SDK](./SDK_14.png)
 
 メモ①：デフォルトで削除できないシステム(セキュリティグループ、VPC、サブネットルートテーブル、)は削除失敗となるが、メッセージを出力しないために、下記内容でコードを修正した。
 
-①	コード修正前
-    try:
-        ec2.delete_route_table(RouteTableId=rtb['RouteTableId'])
-        print(f"ルートテーブルを削除しました: {rtb['RouteTableId']}")
-    except Exception as e:
-        print(f"削除失敗: {rtb['RouteTableId']} - {e}")
+[`SDK_修正後コード ダウンロード`](./SDK_修正後コード.txt)
 
-②	コード修正後
-        try:
-            ec2.delete_route_table(RouteTableId=rtb['RouteTableId'])
-        except Exception:
-            pass  # エラー時は何も表示しない
-        else:
-             print(f"ルートテーブルを削除しました: {rtb['RouteTableId']}")
 
-メモ②：キーペアを全て削除したい場合は、下記を実行する。
-#キーペアの削除
-key_pairs = ec2.describe_key_pairs()
-for key in key_pairs['KeyPairs']:
-    ec2.delete_key_pair(KeyName=key['KeyName'])
-    print(f"キーペアを削除しました: {key['KeyName']}")
- 
