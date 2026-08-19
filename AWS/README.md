@@ -22,6 +22,15 @@
 
 
 - CI/CD
+  - GitHubリポジトリにコードをプッシュするための準備をする
+  - GitHubリポジトリにソースコードをpushする
+  - GitHubリポジトリーに再pushする
+  - Code Buildの準備
+  - Cody Deploy用EC2の設定
+  - Cody Deployの開始
+  - Cody Buildの実行
+  - Cody Deployの実行
+
 - AWS SDK実行検証
   - [AWS SDK実行検証](./SDK/)
 
