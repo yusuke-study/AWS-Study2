@@ -22,6 +22,10 @@
 
 - CI/CD
 - AWS SDK実行検証
+  - [AWS SDK実行検証](./SDK/)
+  - 
 - AWS CDK実行検証
+  - [AWS CDK実行検証](./CDK/)
+
 - AWS Resource Groups
 - 請求とコスト管理
