@@ -22,7 +22,7 @@
 
 
 - CI/CD
-  - GitHubリポジトリにコードをpushする
+  - [GitHubリポジトリにコードをpushする](./CI CD/)
   - Code Buildの準備
   - Cody Deploy用EC2の設定
   - Cody Deployの開始
