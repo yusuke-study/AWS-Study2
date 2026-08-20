@@ -13,6 +13,7 @@
 (2)	App.pyに、下記内容を追加する。
 
 from test_cdk_app.s3_stack import S3Stack
+
 S3Stack(app, "S3Stack")
 
 修正前：
@@ -33,7 +34,9 @@ S3Stack(app, "S3Stack")
 ![CDK02](./CDK02_04.png)
 
 (5)	「cdk deploy」を実行する。
+
 ※任意のスタックを実行する場合は下記を実行する。
+
 cdk deploy <スタックを指定する場合はスタック名>
 
 ![CDK02](./CDK02_05.png)
