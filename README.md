@@ -13,7 +13,7 @@ Windows Server、Microsoft 365、Azureなどの構築・運用を経験してい
 - Azure
 - Microsoft 365
 - Terraform
-- [Webページ](./WebPage/)
+- [学習用Webページ](./WebPage/)
 
 
  
