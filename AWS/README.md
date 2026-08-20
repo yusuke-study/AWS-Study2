@@ -37,8 +37,7 @@
 
 - AWS CDK実行検証
   - [AWS CDK実行準備](./CDK/)
-  - AWS CDK動作検証 (S3作成)
-  - AWS CDK動作検証 (VPC EC2作成)
+  - [AWS CDK動作検証](./CDK02/)
 
     
 - AWS Resource Groups
