@@ -4,7 +4,7 @@
 
 Windows Server、Linux、AWS、Azure、Microsoft 365、などの構築・運用を経験しています。
 
-本GitHubでは、これまでに取り組んだ内容や、各項目の便利な確認コマンド等を公開します。
+本GitHubでは、これまでに取り組んだ内容や、ステータスの確認コマンド等を公開します。
 
 ## Skills
 
