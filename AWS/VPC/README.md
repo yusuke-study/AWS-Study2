@@ -46,31 +46,37 @@ VPCに関連するシステムの確認を行うコマンドについて、主�
 VPCに関連するシステムの確認を行うコマンドについて記載する。
 
 (1)	作成されているVPCを確認する。
+
 「aws ec2 describe-vpcs」を実行する。
 
 ![VPC](./VPC_07.png)
 
 (2)	作成されているサブネットを確認する。
+
 「aws ec2 describe-subnets」を実行する。
  
 ![VPC](./VPC_08.png)
 
 (3)	作成されているルートテーブルを確認する。
+
 「aws ec2 describe-route-tables」を実行する。
 
  ![VPC](./VPC_09.png)
 
 (4)	作成されているインターネットゲートウェイを確認する。
+
 「aws ec2 describe-internet-gateways」を実行する。
 
  ![VPC](./VPC_10.png)
 
 (5)	Elastic IP を確認する。
+
 「aws ec2 describe-addresses」を実行する。
 
  ![VPC](./VPC_11.png)
 
 (6)	NAT ゲートウェイを確認する。
+
 「aws ec2 describe-nat-gateways」を実行する。
 
 ![VPC](./VPC_012.png)
