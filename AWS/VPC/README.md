@@ -79,7 +79,7 @@ VPCに関連するシステムの確認を行うコマンドについて記載�
 
 「aws ec2 describe-nat-gateways」を実行する。
 
-![VPC](./VPC_012.png)
+![VPC](./VPC_12.png)
 
 
 ## VPC関連作成
