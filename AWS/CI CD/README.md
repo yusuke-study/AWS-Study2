@@ -29,6 +29,7 @@
 ![CI/CD](./CD CD01_05.png) 
 
 (2)	Githubのコードを取得する。
+
 コマンド：git clone https://github.com/<その後のディレクトリ>
 
 ![CI/CD](./CD CD01_06.png) 
@@ -41,6 +42,7 @@
 (4)	現在いるディレクトリをGit管理対象にする。
 
 コマンド：git init
+
 ※実行すると、そのディレクトリに隠しディレクトリ.gitが作られ、コミット履歴やブランチ情報が保存される。
 
 ![CI/CD](./CD CD01_08.png)  
@@ -60,9 +62,13 @@ git add した変更を、Gitの履歴として保存する。
 ![CI/CD](./CD CD01_09.png) 
 
 (6)	ローカルGitとGitHubリポジトリの「接続先」を登録する。
+
 コマンド：git remote add origin [GitHubのURL]
+
 ローカルの main ブランチの内容を、GitHubの origin にアップロードする。
+
 コマンド：git push -u origin main
+
 　　　※ユーザー名とPersonal access tokens (classic)を入力する。
 
  ![CI/CD](./CD CD01_10.png) 
