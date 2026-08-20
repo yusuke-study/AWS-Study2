@@ -98,10 +98,3 @@ CDKToolkit は、cdk bootstrap を実行したときに作成される CloudForm
  
  ![CDK](./CDK_15.png)  
  
-##	AWS CDK動作検証
-
-###	S3作成
-
-(1)	実行用のファイルを作成する。
-※作成したファイルと内容は下記を用意した。
-ファイル名：s3_stack.py
