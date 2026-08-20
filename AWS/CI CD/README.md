@@ -4,7 +4,7 @@
 
 (1)	GitHub上でPrivate リポジトリを作成する。
 
- ![CI CD](./CD CD01_01.png)
+ ![CI/CD](./CD CD01_01.png)
  
 (2)	GitHub上でコードをプッシュするためのカギを作成する。
 
